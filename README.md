@@ -1,5 +1,5 @@
 # newtest
-
+#This is my 1st git note
 1. git init:-create a empty repository
 2. git clone:-create a workig local repostitory in remote repository
 3. git status:-state of current repository
